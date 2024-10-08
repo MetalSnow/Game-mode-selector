@@ -26,7 +26,7 @@ const Lobby = () => {
 
   return (
     <div>
-      {name === 'mode' ? (
+      {name === undefined ? (
         <>
           <h2>Choose Game Mode</h2>
 

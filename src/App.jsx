@@ -7,7 +7,7 @@ const App = () => {
       <h1>Welcome To Valorant</h1>
       <p>5 vs 5 Shooter Game</p>
       <nav>
-        <Link to="lobby/mode">Start Game</Link>
+        <Link to="lobby">Start Game</Link>
       </nav>
     </div>
   );
